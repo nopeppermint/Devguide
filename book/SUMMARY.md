@@ -31,6 +31,7 @@ This is the summary of the PX4 dev guide.
   * [Pixhawk](hardware-pixhawk.md)
   * [Pixfalcon](hardware-pixfalcon.md)
   * [Pixracer](hardware-pixracer.md)
+  * [PX4-STM32Discovery](px4-stm32f4discovery.md)
 * Middleware and Architecture
   * [uORB Messaging](advanced-uorb.md)
   * [Daemons](architecture-daemon.md)
@@ -66,6 +67,7 @@ This is the summary of the PX4 dev guide.
   * [UART](uart-intro.md)
 * Debugging and Advanced Topics
   * [FAQ](advanced-faq.md)
+  * [Bootloader](px4_bootloader.md)
   * [System Console](advanced-system-console.md)
   * [System Boot](advanced-system-startup.md)
   * [Simulation Debugging](simulation-debugging.md)
